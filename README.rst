@@ -1,6 +1,8 @@
 =======
 Recipes
 =======
+My collection of recipies and food blue prints from freinds, family, internet, and my self.
+
 .. raw:: pdf
 .. contents:: Table of Contents
 .. raw:: pdf
