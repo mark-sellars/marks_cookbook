@@ -9,6 +9,7 @@ My collection of recipies and food blue prints from freinds, family, internet, a
 
 Beef
 ====
+- `How to make the perfect steak <./rst/perfect_steak.rst>`_
 - `Sweedish meatballs with mashed potatos and gravy <./rst/sweedish_meatballs_potatos.rst>`_
 
 Chicken
